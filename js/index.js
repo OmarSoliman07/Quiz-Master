@@ -42,8 +42,8 @@ let difficultyOptions = document.getElementById('difficultyOptions');
 let questionsNumber = document.getElementById('questionsNumber');
 let startQuizBtn = document.getElementById('startQuiz');
 let questionsContainer = document.getElementById('questionsContainer');
-import Quiz from './Quiz.js';
-import Question from './Question.js';
+import Quiz from './quiz.js';
+import Question from './question.js';
 
 
 // ============================================
